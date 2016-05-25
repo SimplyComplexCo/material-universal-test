@@ -12,3 +12,6 @@ npm start
 ```
 ## License
 MIT
+
+## Notes
+*If you take out the overlay provider from viewProviders in `app/app.ts` and comment out the import for the same the app will run on http://localhost:6565*
