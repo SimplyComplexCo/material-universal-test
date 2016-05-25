@@ -1,0 +1,15 @@
+{
+  "dependencies": {},
+  "devDependencies": {},
+  "globalDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160317120654",
+    "core-js": "registry:dt/core-js#0.0.0+20160317120654",
+    "express": "registry:dt/express#4.0.0+20160317120654",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160322035842",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "ng2": "github:gdi2290/typings-ng2/ng2.d.ts#32998ff5584c0eab0cd9dc7704abb1c5c450701c",
+    "node": "registry:dt/node#6.0.0+20160523035754",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160501131543",
+    "zone.js": "github:DefinitelyTyped/DefinitelyTyped/zone.js/zone.js.d.ts#b923a5aaf013ac84c566f27ba6b5843211981c7a"
+  }
+}
